@@ -1,4 +1,4 @@
-# SSAssignment
+# SSAssignment/Facebook Authentication
 This project was created to demostrate the OAuth authentication using facebook into a webpage
 
 Steps to deploy the application:
